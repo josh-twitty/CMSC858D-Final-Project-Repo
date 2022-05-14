@@ -1,0 +1,47 @@
+euclidean Count matrix Leiden silhouette score: 0.028025063
+
+euclidean Count matrix Leiden bouldin score: 4.236985188079961
+
+euclidean Equiv matrix Leiden silhouette score: 0.0059572505
+
+euclidean Equiv matrix Leiden bouldin score: 5.040038681680537
+
+euclidean Count matrix louvain silhouette score: 0.028400866
+
+euclidean Count matrix louvain bouldin score: 4.160984542989201
+
+euclidean Equiv matrix louvain silhouette score: 0.014421807
+
+euclidean Equiv matrix louvain bouldin score: 4.950250828903934
+
+l1 Count matrix Leiden silhouette score: 0.025722414
+l1 
+Count matrix Leiden bouldin score: 4.684813460771607
+l1 
+Equiv matrix Leiden silhouette score: 0.007842049
+
+l1 Equiv matrix Leiden bouldin score: 5.474963560545561
+
+l1 Count matrix louvain silhouette score: 0.028571822
+
+l1 Count matrix louvain bouldin score: 4.213448120752522
+
+l1 Equiv matrix louvain silhouette score: 0.012163225
+
+l1 Equiv matrix louvain bouldin score: 5.004893991672942
+
+l2 Count matrix Leiden silhouette score: 0.028025063
+
+l2 Count matrix Leiden bouldin score: 4.236985188079961
+
+l2 Equiv matrix Leiden silhouette score: 0.0059572505
+
+l2 Equiv matrix Leiden bouldin score: 5.040038681680537
+
+l2 Count matrix louvain silhouette score: 0.028400866
+
+l2 Count matrix louvain bouldin score: 4.160984542989201
+
+l2 Equiv matrix louvain silhouette score: 0.014421807
+
+l2 Equiv matrix louvain bouldin score: 4.950250828903934
