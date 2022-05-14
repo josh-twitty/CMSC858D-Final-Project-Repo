@@ -15,10 +15,10 @@ euclidean Equiv matrix louvain silhouette score: 0.014421807
 euclidean Equiv matrix louvain bouldin score: 4.950250828903934
 
 l1 Count matrix Leiden silhouette score: 0.025722414
-l1 
-Count matrix Leiden bouldin score: 4.684813460771607
-l1 
-Equiv matrix Leiden silhouette score: 0.007842049
+
+l1 Count matrix Leiden bouldin score: 4.684813460771607
+
+l1 Equiv matrix Leiden silhouette score: 0.007842049
 
 l1 Equiv matrix Leiden bouldin score: 5.474963560545561
 
